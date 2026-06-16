@@ -25,7 +25,7 @@
 
 ### 데이터셋 설명
 
-* **출처:** Kaggle WM-811K Wafer Map Dataset
+* **출처:** Kaggle WM-811K Wafer Map Dataset (용량 문제로 업로드 못했습니다)
 * **원본 데이터 규모:** 총 811,457장
 * **데이터 형태 (Input):** WaferMap 2D 배열 형태
 * `0`: 비활성 영역 (Wafer 외부 Empty Space)
